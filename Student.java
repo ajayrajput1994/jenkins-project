@@ -1,6 +1,6 @@
 public class Student{
 
-    publci Student(){
+    public Student(){
         System.out.println("this is studnet file !!");
     }
 
