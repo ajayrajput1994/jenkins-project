@@ -5,6 +5,6 @@ public class Main{
         System.out.println("this is start now !!");
         System.out.println("adding one more line !!");
         Student stud=new Student();
-        stude.addStudent();
+        stud.addStudent();
     }
 }
