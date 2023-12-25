@@ -4,5 +4,7 @@ public class Main{
         System.out.println("create for jenkins !");
         System.out.println("this is start now !!");
         System.out.println("adding one more line !!");
+        Student stud=new Student();
+        stude.addStudent();
     }
 }
